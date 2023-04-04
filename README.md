@@ -7,4 +7,4 @@ The team is acutely aware of the prevalence of heart disease in India, which is 
 
 contributed by :-
 Mudit Sinha , Ishan Vishwakarma , Harshit Srivastav , Poorvi Bhalerao
-Team from GCET
+-Team from GCET
